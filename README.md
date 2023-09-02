@@ -3,7 +3,8 @@ A saved version of the Jampack matrix package (which is why the projet is called
 
 A zip file containing both the source code an the class files is available at [NIST website](https://math.nist.gov/pub/Jampack/Jampack/AboutJampack.html). Note that the zip does not contain any build system (ant, maven, make, etc...) and no jar files either. It also appear that the code has no licence at all.
 
-The project is availabel at [github.com/hervegirod/JampackSaved](https://github.com/hervegirod/JampackSaved).
+The project is available at [github.com/hervegirod/JampackSaved](https://github.com/hervegirod/JampackSaved).
+
 # Why this project?
 **I don't own this code as it was originally posted by NIST**. However I felt the need to propose a proper github project with it because the origianl code seems not to be maintained anbymore, and also did not come with real library, nor any build system. Basically you had to get the Java source classes yourself, and include them in your project.
 
@@ -13,4 +14,4 @@ As it appear that there  no licence at all for the original code, I think that p
 It appear that the original Jampack code has no licence at all.
 
 # Documentation
-The documentation is avilable in the original zip file, and it is retained here. Also you can view it online [here](https://math.nist.gov/pub/Jampack/Jampack/Doc/00_Manual.html#mancont).
+The documentation is available in the original zip file, and it is retained here. Also you can view it online [here](https://math.nist.gov/pub/Jampack/Jampack/Doc/00_Manual.html#mancont).
