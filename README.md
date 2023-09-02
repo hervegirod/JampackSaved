@@ -12,4 +12,4 @@ As it appear that there  no licence at all for the original code, I think that p
 It appear that the original Jampack code has no licence at all. 
 
 # Documentation
-The documentation is avilable in the original zip file, and it retained here. Also you can view it online [here](https://math.nist.gov/pub/Jampack/Jampack/Doc/00_Manual.html#mancont).
+The documentation is avilable in the original zip file, and it is retained here. Also you can view it online [here](https://math.nist.gov/pub/Jampack/Jampack/Doc/00_Manual.html#mancont).
