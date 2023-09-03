@@ -6,7 +6,7 @@ A zip file containing both the source code an the class files is available at [N
 The project is available at [github.com/hervegirod/JampackSaved](https://github.com/hervegirod/JampackSaved).
 
 # Why this project?
-**I don't own this code as it was originally posted by NIST**. However I felt the need to propose a proper github project with it because the origianl code seems not to be maintained anbymore, and also did not come with real library, nor any build system. Basically you had to get the Java source classes yourself, and include them in your project.
+**I don't own this code as it was originally posted by NIST**. However I felt the need to propose a proper github project with it because the origianl code seems not to be maintained anymore, and also did not come with real library, nor any build system. Basically you had to get the Java source classes yourself, and include them in your project.
 
 As it appear that there  no licence at all for the original code, I think that proposing a github project with a real build system and a real usable library without having to include the code in your own project could be useful.
 
